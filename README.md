@@ -1,0 +1,2 @@
+# MobileSam_simple_numpy
+拆分MobileSam大模型，使用onnxruntime和numpy实现推理流程
